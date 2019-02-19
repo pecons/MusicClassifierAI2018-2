@@ -35,8 +35,14 @@ Clasificar canciones por su respectivo género músical.
 Los datos del dataset y otros datos fueron recolectados por usuarios que Tambien tienen como propósito el tratamiento de señales de audio.
 
 -https://www.kaggle.com/c/mlp2016-7-msd-genre/data
+
 -https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8
+
 -https://ieeexplore.ieee.org/document/1021072
+
 -https://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysis
+
 -https://gist.github.com/parulnith/7f8c174e6ac099e86f0495d3d9a4c01e
+
 -https://labrosa.ee.columbia.edu/millionsong/
+
