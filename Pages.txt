@@ -10,6 +10,8 @@ GUI:
 -https://stackoverflow.com/questions/42841542/encoding-a-tensorflow-neural-network-into-tkinter-gui
 -https://likegeeks.com/es/ejemplos-de-la-gui-de-python/
 -https://www.youtube.com/watch?v=HjNHATw6XgY&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk&index=1
+-http://www.science.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter
+-https://docs.python.org/3/library/tk.html
 
 Preguntas:
 
