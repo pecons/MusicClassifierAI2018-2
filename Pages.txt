@@ -1,0 +1,17 @@
+
+TENSORFLOW Y KERAS:
+-https://www.apsl.net/blog/2018/02/02/tensor-flow-para-principiantes-vi-uso-de-la-api-keras/
+-https://enmilocalfunciona.io/deep-learning-basico-con-keras-parte-1/
+-https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network
+ METRICS:
+ -https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model
+
+GUI:
+-https://stackoverflow.com/questions/42841542/encoding-a-tensorflow-neural-network-into-tkinter-gui
+-https://likegeeks.com/es/ejemplos-de-la-gui-de-python/
+-https://www.youtube.com/watch?v=HjNHATw6XgY&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk&index=1
+
+Preguntas:
+
+-¿Cómo importar las canciones y transformarlas con las características que se necesitan para hacer test con el modelo?
+ -> Librosa
