@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
+from tkinter.filedialog import askopenfilename
 window = tk.Tk()
 
 #Propiedades de la Ventana
@@ -32,12 +33,17 @@ def create_new_window():
     window1.maxsize(width=800,height=600)
     frame2 = tk.Frame(window1, bg='yellow green')
     frame2.pack(fill='both', expand='yes')
+    
+def choose_file():
+    filename = askopenfilename()
+    print(filename)
+    
 
 btn0 = tk.Button(frame1, text="Identificar Género Canción",
                  bg='pale goldenrod',
                  fg='dim gray',
                  font=("Verdana",10),
-                 command=create_new_window)
+                 command=choose_file)
 btn0.place(x=100,y=300)
 
 def click_credits():       
