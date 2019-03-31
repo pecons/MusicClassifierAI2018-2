@@ -1,3 +1,6 @@
+<p align="center"><img src="https://i.imgur.com/If2Ecjz.gif" width="1500" heigth="500"></p>
+
+
 # Clasificador de Música por Género
 **Integrantes**
 - William Palomino
