@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/9e4uEvj.jpg" width="1500" heigth="500"></p>
+<p align="center"><img src="https://i.imgur.com/edBn9uY.jpg" width="1500" heigth="500"></p>
 
 
 # Clasificador de Música por Género
