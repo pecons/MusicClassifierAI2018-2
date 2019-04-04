@@ -33,7 +33,7 @@ Para entrenar un modelo, primero se necesita obtener de cada una de esas cancion
 
 # Objetivo
 -Clasificar canciones por su respectivo género músical.<br> 
--aprender acerca de los Modelos de DeepLearning, más especificamente los que ofrece la Librería Keras usando TensorFlow como backend.
+-Aprender acerca de los Modelos de DeepLearning, más especificamente los que ofrece la Librería Keras usando TensorFlow como backend.
 
 # Referencias
 Los datos del dataset y otros datos fueron recolectados por usuarios que Tambien tienen como propósito el tratamiento de señales de audio.
@@ -49,4 +49,29 @@ Los datos del dataset y otros datos fueron recolectados por usuarios que Tambien
 -https://gist.github.com/parulnith/7f8c174e6ac099e86f0495d3d9a4c01e
 
 -https://labrosa.ee.columbia.edu/millionsong/
+
+TENSORFLOW Y KERAS:
+
+-https://www.apsl.net/blog/2018/02/02/tensor-flow-para-principiantes-vi-uso-de-la-api-keras/
+
+-https://enmilocalfunciona.io/deep-learning-basico-con-keras-parte-1/
+
+-https://stats.stackexchange.com/questions/153531/what-is-batch-size-in-neural-network
+
+ METRICS:
+ 
+ -https://stackoverflow.com/questions/34518656/how-to-interpret-loss-and-accuracy-for-a-machine-learning-model
+ 
+
+GUI:
+
+-https://stackoverflow.com/questions/42841542/encoding-a-tensorflow-neural-network-into-tkinter-gui
+
+-https://likegeeks.com/es/ejemplos-de-la-gui-de-python/
+
+-https://www.youtube.com/watch?v=HjNHATw6XgY&list=PLQVvvaa0QuDclKx-QpC9wntnURXVJqLyk&index=1
+
+-http://www.science.smith.edu/dftwiki/index.php/Color_Charts_for_TKinter
+
+-https://docs.python.org/3/library/tk.html
 
