@@ -32,7 +32,7 @@ Para entrenar un modelo, primero se necesita obtener de cada una de esas cancion
 
 
 # Objetivo
--Clasificar canciones por su respectivo género músical. 
+-Clasificar canciones por su respectivo género músical.<br> 
 -aprender acerca de los Modelos de DeepLearning, más especificamente los que ofrece la Librería Keras usando TensorFlow como backend.
 
 # Referencias
