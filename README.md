@@ -15,7 +15,7 @@
 
 # ¡Clickea y mira el video!
 
-[![Demo CountPages alpha](http://i.freegifmaker.me/1/5/5/4/3/8/15543875612251425.gif)](https://youtu.be/5gOOh8O8p3k)
+[![Foo](https://i.imgur.com/4h13yFG.jpg)](https://youtu.be/5gOOh8O8p3k)
 
 # Introduccion
 El planteamiento del proyecto consiste en crear un clasificador de canciones por su género, por medio de caracteristicas similares preprocesadas en los espectrogramas de las canciones.
